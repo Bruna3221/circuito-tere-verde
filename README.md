@@ -56,10 +56,10 @@ O Circuito Terê Verde tem como objetivo centralizar informações turísticas d
 
 ## 📂 Estrutura do Projeto
 
-ircuito-tere-verde/
+circuito-tere-verde/
 │
 ├── docs/
-│   └── Requisitosmvp.pdf
+│   └── Requisitosmvp1.pdf
 │
 ├── backend/
 │
