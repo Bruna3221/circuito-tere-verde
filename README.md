@@ -6,6 +6,10 @@ Sistema web desenvolvido para divulgação e gerenciamento de atrativos turísti
 
 O Circuito Terê Verde tem como objetivo centralizar informações turísticas da região, permitindo que visitantes consultem atrações e eventos, enquanto administradores gerenciam o conteúdo disponibilizado na plataforma.
 
+Membros da equipe
+
+Bruna Ferreira Machado
+
 ## 🎯 Objetivos
 
 - Divulgar eventos turísticos;
@@ -71,6 +75,7 @@ circuito-tere-verde/
 O documento de requisitos do projeto está disponível em:
 
 Requisitosmvp1.pdf
+
 🚀 Status do Projeto
 Em desenvolvimento.
 
