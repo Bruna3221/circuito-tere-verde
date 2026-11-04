@@ -1,0 +1,14 @@
+### Listar eventos
+GET http://localhost:3000/eventos
+
+###
+
+### Criar evento
+POST http://localhost:3000/eventos
+Content-Type: application/json
+
+{
+  "titulo": "Festival de Trilhas",
+  "descricao": "Evento Turístico",
+  "local": "Teresópolis"
+}
