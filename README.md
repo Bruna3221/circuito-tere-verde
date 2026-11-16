@@ -78,6 +78,8 @@ O documento de requisitos do projeto está disponível em:
 Requisitosmvp1.pdf
 
 🚀 Status do Projeto
+
+
 Em desenvolvimento.
 
 Atualmente o projeto encontra-se na fase de levantamento e documentação de requisitos para o MVP.
