@@ -11,9 +11,10 @@ export class AuthService {
       senha === '123456'
     ) {
       return {
-        message: 'Login realizado com sucesso',
+  message: 'Login realizado com sucesso',
+  token: 'admin-token',
+};
       };
-    }
 
     throw new UnauthorizedException(
       'Email ou senha inválidos',
