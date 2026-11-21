@@ -6,6 +6,17 @@ Sistema web desenvolvido para divulgação e gerenciamento de atrativos turísti
 
 O Circuito Terê Verde tem como objetivo centralizar informações turísticas da região, permitindo que visitantes consultem atrações e eventos, enquanto administradores gerenciam o conteúdo disponibilizado na plataforma.
 
+## 🚀 MVP Entregue
+
+O sistema implementa:
+
+- Login administrativo
+- CRUD completo de eventos
+- Interface administrativa em React
+- API desenvolvida com NestJS
+- Documentação automática com Swagger
+- Integração Frontend e Backend
+- 
 ## 👥 Membros da equipe
 
 Bruna Ferreira Machado
@@ -35,12 +46,30 @@ Bruna Ferreira Machado
 ## ✅ Principais Funcionalidades
 
 - Autenticação de administradores;
-- Cadastro e gerenciamento de eventos;
-- Cadastro e gerenciamento de temporadas;
-- Cadastro de atrativos turísticos;
-- Consulta pública de informações turísticas;
-- Upload de imagens;
-- Busca de eventos e atrativos.
+- Cadastro de eventos;
+- Listagem de eventos;
+- Atualização de eventos;
+- Exclusão de eventos;
+- Documentação da API com Swagger;
+
+## 🚫 Fora do Escopo
+
+O MVP não contempla:
+
+- Cadastro de visitantes
+- Upload de imagens
+- Integração com mapas
+- Reserva de ingressos
+- Pagamentos online
+- Banco de dados persistente
+
+## 📌 Requisitos Não Funcionais
+
+- Sistema desenvolvido em TypeScript.
+- API documentada com Swagger.
+- Utilização de Git e GitHub para versionamento.
+- Interface web responsiva para administração.
+- Arquitetura cliente-servidor.
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -61,11 +90,44 @@ Bruna Ferreira Machado
 
 ## 📂 Estrutura do Projeto
 
+```text
 circuito-tere-verde/
+│
 ├── frontend/
+│
 ├── src/
 ├── prisma/
+├── test/
+│
 ├── package.json
+├── README.md
+└── Requisitosmvp1.pdf
+```
+
+## ▶️ Como Executar
+
+### Backend
+
+```bash
+npm install
+npm run start:dev
+```
+
+Swagger:
+
+http://localhost:3000/api
+
+### Frontend
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+Aplicação:
+
+http://localhost:5173
 
 📄 Documentação
 
