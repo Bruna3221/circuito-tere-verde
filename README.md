@@ -42,14 +42,15 @@ Bruna Ferreira Machado
 - Upload de imagens;
 - Busca de eventos e atrativos.
 
-## 🛠️ Tecnologias Planejadas
+## 🛠️ Tecnologias Utilizadas
 
 ### Backend
+
 - Node.js
 - NestJS
-- Prisma ORM
-- PostgreSQL
-
+- Swagger
+- TypeScript
+- 
 ### Frontend
 - React
 - TypeScript
@@ -79,13 +80,25 @@ Requisitosmvp1.pdf
 
 🚀 Status do Projeto
 
+Projeto MVP finalizado.
 
-Em desenvolvimento.
-
-Atualmente o projeto encontra-se na fase de levantamento e documentação de requisitos para o MVP.
+O sistema possui autenticação administrativa,
+CRUD completo de eventos e interface web para
+gerenciamento de informações turísticas.
 
 🎓 Finalidade
 Projeto acadêmico desenvolvido para aplicação dos conceitos de Engenharia de Software, levantamento de requisitos e desenvolvimento de sistemas web.
+
+## ✅ Funcionalidades Implementadas
+
+- Login administrativo
+- Cadastro de eventos
+- Listagem de eventos
+- Atualização de eventos
+- Exclusão de eventos
+- Interface administrativa
+- Integração Frontend e Backend
+- Documentação da API com Swagger
 
 📜 Licença
 Projeto com fins educacionais.
