@@ -143,6 +143,8 @@ O sistema possui autenticação administrativa,
 CRUD completo de eventos e interface web para
 gerenciamento de informações turísticas.
 
+Observação: algumas funcionalidades previstas nos requisitos iniciais permanecem planejadas para futuras evoluções do sistema e não fazem parte da implementação atual do MVP.
+
 🎓 Finalidade
 Projeto acadêmico desenvolvido para aplicação dos conceitos de Engenharia de Software, levantamento de requisitos e desenvolvimento de sistemas web.
 
