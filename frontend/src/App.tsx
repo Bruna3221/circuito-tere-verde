@@ -52,7 +52,17 @@ function App() {
         <h2>Área Administrativa</h2>
 
         <p>
-          Bem-vinda ao sistema Circuito Terê Verde.
+          Bem-vindo(a) ao sistema Circuito Terê Verde.
+
+          Este sistema permite o gerenciamento
+          de eventos turísticos da região,
+          incluindo cadastro, consulta,
+          atualização e exclusão de eventos.
+
+          Tecnologias utilizadas:
+        • React
+        • NestJS
+        • Swagger
         </p>
 
         <hr />
@@ -73,22 +83,35 @@ function App() {
       </div>
 
       <div className="card">
-        <h2>Eventos Cadastrados</h2>
+     <h2>Eventos Cadastrados</h2>
+    <p style={{ color: '#666' }}>
+    Total de eventos cadastrados: 1
+      </p>
+  <div
+    style={{
+      border: '1px solid #ddd',
+      borderRadius: '10px',
+      padding: '15px',
+      marginTop: '10px',
+      background: '#fafafa',
+    }}
+  >
+    <h3>Festival de Trilhas</h3>
 
-        <div>
-          <h3>Festival de Trilhas</h3>
+    <p>📍 Local: Teresópolis</p>
 
-          <p>📍 Local: Teresópolis</p>
+    <p>📅 Data: 15/12/2026</p>
 
-          <p>📅 Data: 15/12/2026</p>
-
-          <p>🏕️ Categoria: Trilha</p>
-        </div>
-      </div>
+    <p>🏕️ Categoria: Trilha</p>
+  </div>
+</div>
     </div>
+    
   );
 }
-
+<p>
+  Total de eventos cadastrados: 1
+</p>
 
  return (
   <div className="login-container">
