@@ -135,7 +135,7 @@ O documento de requisitos do projeto está disponível em:
 
 Requisitosmvp1.pdf
 
-🚀 Status do Projeto
+## 🚀 Status do Projeto
 
 Projeto MVP finalizado.
 
