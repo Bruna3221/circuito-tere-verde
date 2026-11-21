@@ -62,15 +62,10 @@ Bruna Ferreira Machado
 ## 📂 Estrutura do Projeto
 
 circuito-tere-verde/
-│
-├── docs/
-│   └── Requisitosmvp1.pdf
-│
-├── backend/
-│
 ├── frontend/
-│
-└── README.md
+├── src/
+├── prisma/
+├── package.json
 
 📄 Documentação
 
