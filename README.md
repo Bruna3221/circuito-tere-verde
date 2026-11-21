@@ -159,6 +159,6 @@ Projeto acadêmico desenvolvido para aplicação dos conceitos de Engenharia de 
 - Integração Frontend e Backend
 - Documentação da API com Swagger
 
-📜 Licença
+## 📜 Licença
 Projeto com fins educacionais.
 
